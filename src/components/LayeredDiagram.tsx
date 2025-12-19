@@ -1,3 +1,6 @@
+import image_547f43680088def885d634463c109e49882e4464 from 'figma:asset/547f43680088def885d634463c109e49882e4464.png';
+import image_afdcba2789fdf402b078be633ec69b0ad37bacef from 'figma:asset/afdcba2789fdf402b078be633ec69b0ad37bacef.png';
+import newEacLogo from 'figma:asset/86d84d5926b5b62d51dfed53b05ec7b8edaed70d.png';
 import { Sparkles, Cloud, Layers, Settings, Workflow, Package, Bot, Shield, Plug } from 'lucide-react';
 import codeIcon from "figma:asset/a1d379aeee90dcd29d8547d31deb1979479509dc.png";
 import cursorLogo from "figma:asset/bdc17287d7af698bb57079772292ff2152d9a22b.png";
@@ -56,7 +59,7 @@ export function LayeredDiagram() {
         <div className="bg-gray-900 border border-blue-500/30 rounded-xl p-8 shadow-2xl ring-1 ring-blue-500/20">
           <div className="flex items-center gap-3 mb-6">
             <div className="bg-blue-500/10 p-2 rounded-lg">
-              <img src={codeIcon} alt="EaC" className="w-10 h-10" />
+              <img src={image_547f43680088def885d634463c109e49882e4464} alt="EaC" className="w-10 h-10 rounded-[0px] object-contain" />
             </div>
             <div>
               <h3 className="text-white text-xl">Everything as Code (EaC) Orchestration Layer</h3>

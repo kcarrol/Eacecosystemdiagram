@@ -1,7 +1,7 @@
 
-  # Layered Software Ecosystem Diagram
+  # Everything as Code "Big Picture" Diagram
 
-  This is a code bundle for Layered Software Ecosystem Diagram. The original project is available at https://www.figma.com/design/5hESPtaX8MqFne1yHJ5sIF/Layered-Software-Ecosystem-Diagram.
+  This is a code bundle for Everything as Code "Big Picture" Diagram. The original project is available at https://www.figma.com/design/5hESPtaX8MqFne1yHJ5sIF/Everything-as-Code-%22Big-Picture%22-Diagram.
 
   ## Running the code
 

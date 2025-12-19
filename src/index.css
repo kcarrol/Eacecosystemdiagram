@@ -484,6 +484,10 @@
     gap: calc(var(--spacing) * 6);
   }
 
+  .rounded-\[0px\] {
+    border-radius: 0;
+  }
+
   .rounded-lg {
     border-radius: var(--radius);
   }
